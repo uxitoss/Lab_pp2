@@ -9,7 +9,6 @@ elif(b == a):
 else:   
     print("a is greater than b")
 
-
 #Python Operators
 x = 3
 y = 5
