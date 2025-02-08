@@ -1,7 +1,9 @@
 #Task 1
-def converting (sold_ounces, grams):
+def converting ():
+    grams = float(input())
     sold_ounces = grams * 28.3495231
     return sold_ounces
+
 
 #Task 2
 def converting (F, C):
